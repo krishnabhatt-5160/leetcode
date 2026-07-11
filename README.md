@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
