@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/krishnabhatt-5160/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/krishnabhatt-5160/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
