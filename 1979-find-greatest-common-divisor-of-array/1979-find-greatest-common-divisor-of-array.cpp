@@ -1,21 +1,8 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-
-        int n = nums.size() - 1;
-        int a = nums[0];
-        int b = nums[n];
-
-        while (a > 0 && b > 0) {
-            if (a > b)
-                a = a % b;
-            else
-                b = b % a;
-        }
-
-        if (a == 0)
-            return b;
-        return a;
+        sort(nums.begin() , nums.end());
+      return   gcd(nums[0],nums.back());
+        
     }
 };
