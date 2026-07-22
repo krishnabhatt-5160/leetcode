@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/krishnabhatt-5160/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnabhatt-5160/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/krishnabhatt-5160/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnabhatt-5160/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
