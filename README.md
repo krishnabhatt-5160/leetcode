@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/krishnabhatt-5160/leetcode/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/krishnabhatt-5160/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
