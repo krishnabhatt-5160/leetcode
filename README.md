@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/krishnabhatt-5160/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/0896-monotonic-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnabhatt-5160/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
