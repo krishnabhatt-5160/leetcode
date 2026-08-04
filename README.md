@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishnabhatt-5160/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/krishnabhatt-5160/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/krishnabhatt-5160/leetcode/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishnabhatt-5160/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishnabhatt-5160/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishnabhatt-5160/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
