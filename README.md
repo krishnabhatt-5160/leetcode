@@ -97,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishnabhatt-5160/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishnabhatt-5160/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishnabhatt-5160/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/krishnabhatt-5160/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
