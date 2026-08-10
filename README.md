@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/krishnabhatt-5160/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,4 +199,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
