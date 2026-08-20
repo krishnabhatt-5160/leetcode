@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/krishnabhatt-5160/leetcode/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
