@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/krishnabhatt-5160/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krishnabhatt-5160/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/krishnabhatt-5160/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krishnabhatt-5160/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
