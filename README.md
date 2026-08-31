@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnabhatt-5160/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/krishnabhatt-5160/leetcode/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/krishnabhatt-5160/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/krishnabhatt-5160/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/krishnabhatt-5160/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krishnabhatt-5160/leetcode/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Database
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnabhatt-5160/leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krishnabhatt-5160/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
