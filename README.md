@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/krishnabhatt-5160/leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/krishnabhatt-5160/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnabhatt-5160/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishnabhatt-5160/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/krishnabhatt-5160/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
@@ -264,9 +266,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishnabhatt-5160/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/krishnabhatt-5160/leetcode/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3903-smallest-stable-index-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/krishnabhatt-5160/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
