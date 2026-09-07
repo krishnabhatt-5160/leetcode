@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/krishnabhatt-5160/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/krishnabhatt-5160/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/krishnabhatt-5160/leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/krishnabhatt-5160/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/krishnabhatt-5160/leetcode/tree/master/0326-power-of-three) |
 ## Memoization
 |  |
 | ------- |
