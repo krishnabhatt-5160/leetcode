@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnabhatt-5160/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnabhatt-5160/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishnabhatt-5160/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/krishnabhatt-5160/leetcode/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/krishnabhatt-5160/leetcode/tree/master/2469-convert-the-temperature) |
