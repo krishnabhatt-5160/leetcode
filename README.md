@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/krishnabhatt-5160/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnabhatt-5160/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/krishnabhatt-5160/leetcode/tree/master/2029-stone-game-ix) |
+| [2469-convert-the-temperature](https://github.com/krishnabhatt-5160/leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/krishnabhatt-5160/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
