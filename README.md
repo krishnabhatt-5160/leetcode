@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishnabhatt-5160/leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnabhatt-5160/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishnabhatt-5160/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishnabhatt-5160/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/krishnabhatt-5160/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/krishnabhatt-5160/leetcode/tree/master/0058-length-of-last-word) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishnabhatt-5160/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnabhatt-5160/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krishnabhatt-5160/leetcode/tree/master/0392-is-subsequence) |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnabhatt-5160/leetcode/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnabhatt-5160/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
