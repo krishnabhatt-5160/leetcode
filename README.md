@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnabhatt-5160/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/krishnabhatt-5160/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/krishnabhatt-5160/leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/krishnabhatt-5160/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krishnabhatt-5160/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/krishnabhatt-5160/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishnabhatt-5160/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishnabhatt-5160/leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/krishnabhatt-5160/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
